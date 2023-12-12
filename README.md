@@ -1,0 +1,1 @@
+An authentication app using Node.js and Passport which authenticates a user using Passport Local Strategy. I Implemented Express Session with Passport in order to authorize only logged-in users to access the Dashboard. Ialso built and implemented the register and login functionality page using HTML, CSS, Node.js, Express and MongoDB
